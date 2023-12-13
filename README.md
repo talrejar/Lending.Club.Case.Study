@@ -35,8 +35,6 @@ behaviour of the borrower
 - As per heatmap, Location of the borrower definitely plays important role in driving default behaviour
 - Also, default driving factors include ‘sub_grade’, ‘grade’, ‘int_rate’, and ‘addr_state’
 
-
-
 ## Technologies Used
 - library - numpy 1.24.3
 - library - pandas 2.0.3
