@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Dive in the data analytics of a financial company who is the largest online loan marketplace facilitating business loans, personal loans and financing of medical procedures. Objective is to perform data analytics to identify various contributing factors for a financial company to identify what are the attributes of consumer and loan which results in the default or losses for the company. To analyse the above scenario, we will perform exploratory data analysis and apply univariate & bivariate analysis and identify driving variables or factors
 
 
